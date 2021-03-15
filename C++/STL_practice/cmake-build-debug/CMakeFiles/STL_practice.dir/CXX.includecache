@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/thomascc2009/Documents/practice/C++/STL_practice/LRUCache.h
+list
+-
+unordered_map
+-
+iostream
+-
+
+/Users/thomascc2009/Documents/practice/C++/STL_practice/main.cpp
+iostream
+-
+LRUCache.h
+/Users/thomascc2009/Documents/practice/C++/STL_practice/LRUCache.h
+tests.h
+/Users/thomascc2009/Documents/practice/C++/STL_practice/tests.h
+
+/Users/thomascc2009/Documents/practice/C++/STL_practice/tests.cpp
+tests.h
+/Users/thomascc2009/Documents/practice/C++/STL_practice/tests.h
+LRUCache.h
+/Users/thomascc2009/Documents/practice/C++/STL_practice/LRUCache.h
+
+/Users/thomascc2009/Documents/practice/C++/STL_practice/tests.h
+

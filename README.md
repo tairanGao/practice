@@ -1,19 +1,18 @@
 # Study Schedule
 
 ## 绿皮书
-
-- [ ] Calculus and Linear Algebra
-- [ ] Probability
+- [ ] Calculus 
 - [ ] Stochastic Calculus
+- [ ] Linear Algebra
+- [ ] Probability
 - [ ] Finance
 - [ ] Numerical Methods
 
-## 150 题
-- [ ] Math, Calculus
+## 150 题 
 - [ ] Linear Algebra
+- [ ] Probability
 - [ ] Finance
 - [ ] Numerical Methods
-- [ ] Probability
 
 
 ## Lintcode
@@ -28,6 +27,6 @@
 
 
 ## Random TODO:
-
+- [X] **Python** First-Class Functions (https://www.youtube.com/watch?v=kr0mpwqttM0&t=0s)
+- [X] **Python** Closures (https://www.youtube.com/watch?v=swU3c34d2NQ&t=0s)
 - [ ] **Python** Decorator (https://realpython.com/primer-on-python-decorators/#conclusion)
-- [ ] **Python** First-Class Functions (https://www.youtube.com/watch?v=kr0mpwqttM0&t=0s)

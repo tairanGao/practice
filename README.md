@@ -26,7 +26,7 @@
 - [ ] C++内存管理 （https://www.youtube.com/watch?v=N27j6snKcxI&list=PLTcwR9j5y6W2eH37R2_4oEO4Y0tksot56）
 
 
-## Random TODO:
-- [X] **Python** First-Class Functions (https://www.youtube.com/watch?v=kr0mpwqttM0&t=0s)
-- [X] **Python** Closures (https://www.youtube.com/watch?v=swU3c34d2NQ&t=0s)
-- [ ] **Python** Decorator (https://realpython.com/primer-on-python-decorators/#conclusion)
+## Python:
+- [X] First-Class Functions (https://www.youtube.com/watch?v=kr0mpwqttM0&t=0s)
+- [X] Closures (https://www.youtube.com/watch?v=swU3c34d2NQ&t=0s)
+- [X] Decorator (https://realpython.com/primer-on-python-decorators/#conclusion)

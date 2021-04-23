@@ -1,10 +1,3 @@
----
-tags: [Import-e509]
-title: Study Schedule
-created: '2021-03-15T06:55:55.638Z'
-modified: '2021-04-23T03:15:53.388Z'
----
-
 # Study Schedule
 
 ## 绿皮书

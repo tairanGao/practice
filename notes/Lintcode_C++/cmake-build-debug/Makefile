@@ -234,6 +234,33 @@ lintcode_practice\fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lintcode_practice.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\lintcode_practice.dir\56_TwoSum.cpp.s
 .PHONY : 56_TwoSum.cpp.s
 
+574_BuildPostOffice.obj: 574_BuildPostOffice.cpp.obj
+
+.PHONY : 574_BuildPostOffice.obj
+
+# target to build an object file
+574_BuildPostOffice.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lintcode_practice.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\lintcode_practice.dir\574_BuildPostOffice.cpp.obj
+.PHONY : 574_BuildPostOffice.cpp.obj
+
+574_BuildPostOffice.i: 574_BuildPostOffice.cpp.i
+
+.PHONY : 574_BuildPostOffice.i
+
+# target to preprocess a source file
+574_BuildPostOffice.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lintcode_practice.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\lintcode_practice.dir\574_BuildPostOffice.cpp.i
+.PHONY : 574_BuildPostOffice.cpp.i
+
+574_BuildPostOffice.s: 574_BuildPostOffice.cpp.s
+
+.PHONY : 574_BuildPostOffice.s
+
+# target to generate assembly for a file
+574_BuildPostOffice.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lintcode_practice.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\lintcode_practice.dir\574_BuildPostOffice.cpp.s
+.PHONY : 574_BuildPostOffice.cpp.s
+
 59_3SumClosest.obj: 59_3SumClosest.cpp.obj
 
 .PHONY : 59_3SumClosest.obj
@@ -363,6 +390,9 @@ help:
 	@echo ... 56_TwoSum.obj
 	@echo ... 56_TwoSum.i
 	@echo ... 56_TwoSum.s
+	@echo ... 574_BuildPostOffice.obj
+	@echo ... 574_BuildPostOffice.i
+	@echo ... 574_BuildPostOffice.s
 	@echo ... 59_3SumClosest.obj
 	@echo ... 59_3SumClosest.i
 	@echo ... 59_3SumClosest.s

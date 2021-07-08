@@ -92,6 +92,9 @@
 		<Unit filename="E:/Github/practice/notes/Lintcode_C++/56_TwoSum.cpp">
 			<Option target="lintcode_practice"/>
 		</Unit>
+		<Unit filename="E:/Github/practice/notes/Lintcode_C++/574_BuildPostOffice.cpp">
+			<Option target="lintcode_practice"/>
+		</Unit>
 		<Unit filename="E:/Github/practice/notes/Lintcode_C++/59_3SumClosest.cpp">
 			<Option target="lintcode_practice"/>
 		</Unit>

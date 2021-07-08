@@ -9,6 +9,8 @@ CMakeFiles\lintcode_practice.dir\1870_NumberofSubstringswithAllZeroes.cpp.obj: .
 
 CMakeFiles\lintcode_practice.dir\56_TwoSum.cpp.obj: ..\56_TwoSum.cpp
 
+CMakeFiles\lintcode_practice.dir\574_BuildPostOffice.cpp.obj: ..\574_BuildPostOffice.cpp
+
 CMakeFiles\lintcode_practice.dir\59_3SumClosest.cpp.obj: ..\59_3SumClosest.cpp
 
 CMakeFiles\lintcode_practice.dir\610_TwoSumDifferenceEqualsToTarget.cpp.obj: ..\610_TwoSumDifferenceEqualsToTarget.cpp
@@ -19,6 +21,7 @@ CMakeFiles\lintcode_practice.dir\main.cpp.obj: ..\1343_SumofTwoStrings.cpp
 CMakeFiles\lintcode_practice.dir\main.cpp.obj: ..\1375_SubstringWithAtLeastKDistinctCharacters.cpp
 CMakeFiles\lintcode_practice.dir\main.cpp.obj: ..\1870_NumberofSubstringswithAllZeroes.cpp
 CMakeFiles\lintcode_practice.dir\main.cpp.obj: ..\56_TwoSum.cpp
+CMakeFiles\lintcode_practice.dir\main.cpp.obj: ..\574_BuildPostOffice.cpp
 CMakeFiles\lintcode_practice.dir\main.cpp.obj: ..\59_3SumClosest.cpp
 CMakeFiles\lintcode_practice.dir\main.cpp.obj: ..\610_TwoSumDifferenceEqualsToTarget.cpp
 CMakeFiles\lintcode_practice.dir\main.cpp.obj: ..\64_MergeSortedArray.cpp

@@ -36,6 +36,16 @@ vector
 unordered_map
 -
 
+E:/Github/practice/notes/Lintcode_C++/574_BuildPostOffice.cpp
+string
+-
+vector
+-
+set
+-
+utility
+-
+
 E:/Github/practice/notes/Lintcode_C++/59_3SumClosest.cpp
 string
 -
@@ -75,6 +85,8 @@ E:/Github/practice/notes/Lintcode_C++/59_3SumClosest.cpp
 E:/Github/practice/notes/Lintcode_C++/1375_SubstringWithAtLeastKDistinctCharacters.cpp
 610_TwoSumDifferenceEqualsToTarget.cpp
 E:/Github/practice/notes/Lintcode_C++/610_TwoSumDifferenceEqualsToTarget.cpp
+574_BuildPostOffice.cpp
+E:/Github/practice/notes/Lintcode_C++/574_BuildPostOffice.cpp
 
 E:/Github/practice/notes/Lintcode_C++/main.cpp
 iostream

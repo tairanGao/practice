@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "E:/Github/practice/notes/Lintcode_C++/1375_SubstringWithAtLeastKDistinctCharacters.cpp" "E:/Github/practice/notes/Lintcode_C++/cmake-build-debug/CMakeFiles/lintcode_practice.dir/1375_SubstringWithAtLeastKDistinctCharacters.cpp.obj"
   "E:/Github/practice/notes/Lintcode_C++/1870_NumberofSubstringswithAllZeroes.cpp" "E:/Github/practice/notes/Lintcode_C++/cmake-build-debug/CMakeFiles/lintcode_practice.dir/1870_NumberofSubstringswithAllZeroes.cpp.obj"
   "E:/Github/practice/notes/Lintcode_C++/56_TwoSum.cpp" "E:/Github/practice/notes/Lintcode_C++/cmake-build-debug/CMakeFiles/lintcode_practice.dir/56_TwoSum.cpp.obj"
+  "E:/Github/practice/notes/Lintcode_C++/574_BuildPostOffice.cpp" "E:/Github/practice/notes/Lintcode_C++/cmake-build-debug/CMakeFiles/lintcode_practice.dir/574_BuildPostOffice.cpp.obj"
   "E:/Github/practice/notes/Lintcode_C++/59_3SumClosest.cpp" "E:/Github/practice/notes/Lintcode_C++/cmake-build-debug/CMakeFiles/lintcode_practice.dir/59_3SumClosest.cpp.obj"
   "E:/Github/practice/notes/Lintcode_C++/610_TwoSumDifferenceEqualsToTarget.cpp" "E:/Github/practice/notes/Lintcode_C++/cmake-build-debug/CMakeFiles/lintcode_practice.dir/610_TwoSumDifferenceEqualsToTarget.cpp.obj"
   "E:/Github/practice/notes/Lintcode_C++/64_MergeSortedArray.cpp" "E:/Github/practice/notes/Lintcode_C++/cmake-build-debug/CMakeFiles/lintcode_practice.dir/64_MergeSortedArray.cpp.obj"

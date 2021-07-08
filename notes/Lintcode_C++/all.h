@@ -14,6 +14,8 @@
 #include "59_3SumClosest.cpp"
 #include "1375_SubstringWithAtLeastKDistinctCharacters.cpp"
 #include "610_TwoSumDifferenceEqualsToTarget.cpp"
+#include "574_BuildPostOffice.cpp"
+
 
 
 #endif //LINTCODE_C___ALL_H

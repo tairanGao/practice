@@ -15,5 +15,6 @@ add_executable(lintcode_practice
         59_3SumClosest.cpp
         1375_SubstringWithAtLeastKDistinctCharacters.cpp
         610_TwoSumDifferenceEqualsToTarget.cpp
+        574_BuildPostOffice.cpp
         all.h
         )

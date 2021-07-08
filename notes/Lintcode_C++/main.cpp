@@ -47,12 +47,28 @@ int main()
 //    std::cout <<sol_1357->kDistinctCharacters(input, 3) <<std::endl;
 
 
-    auto sol_610= std::make_shared<lintcode_610::Solution>();
-    std::cout << sol_610->outputInfo() <<std::endl;
-    std::vector<int> input = {0,5,7,7};
+//    auto sol_610= std::make_shared<lintcode_610::Solution>();
+//    std::cout << sol_610->outputInfo() <<std::endl;
+//    std::vector<int> input = {0,5,7,7};
+//
+//    auto result =sol_610->twoSum7(input, -2);
+//    for (auto i: result)
+//        std::cout << i << ' ';
+//    std::cout << std::endl;
 
-    auto result =sol_610->twoSum7(input, -2);
-    for (auto i: result)
-        std::cout << i << ' ';
-    std::cout << std::endl;
+
+
+
+    auto sol_574= std::make_shared<lintcode_574::Solution>();
+    std::cout << sol_574->outputInfo() <<std::endl;
+    std::vector<std::vector<int>> grid = {{0,1,0,0}, {1,0,1,1},{0,1,0,0}};
+    std::cout <<sol_574->shortestDistance(grid) <<std::endl;
+
+
+
+
+
+
+
+
 }
